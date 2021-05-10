@@ -1,0 +1,13 @@
+book_filename: "trial-bookdown-example"
+language:
+  ui:
+    chapter_name: "Section"
+delete_merged_file: true
+rmd_files: [
+  "index.Rmd",
+  "00_data-import.Rmd",
+  "01_data-clean.Rmd",
+  "10_report-information.Rmd",
+  "11_report-titlepage.Rmd",
+  "20_data-presentation.Rmd",
+  ]

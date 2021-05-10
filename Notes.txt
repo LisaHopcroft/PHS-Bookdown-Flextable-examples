@@ -1,0 +1,1 @@
+If the Build tab is not available, need to relaunch R (restart doesn't work).
