@@ -7,7 +7,6 @@ output:
   bookdown::word_document2:
     toc: yes
     toc_depth: 2
-    reference_docx: H:\Projects\Reference\DMC_formatting_reference\DMC_formatting_reference_file-01-draft.docx
 ---
 
 ```{r knitr_options, echo=FALSE}
